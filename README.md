@@ -73,4 +73,4 @@ I am a ReactJS & NodeJS Developer <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### 🌀 Some Repositories :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=thiagobrun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=thiagobrun.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
