@@ -61,7 +61,16 @@ I am a ReactJS & NodeJS Developer <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :fire: My Stats :
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thiagobrun&theme=dark)](https://git.io/streak-stats)
+
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrun&show_icons=true&theme=dark&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrun&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+
+### 🌀 Some Repositories :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=thiagobrun&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
