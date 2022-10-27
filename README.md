@@ -74,3 +74,4 @@ I am a ReactJS & NodeJS Developer <img src="https://media.giphy.com/media/WUlplc
 
 ### 🌀 Some Repositories :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=thiagobrun.github.io&theme=dark)](https://github.com/thiagobrun/thiagobrun.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=react-node-auth&theme=dark)](https://github.com/thiagobrun/react-node-auth)
