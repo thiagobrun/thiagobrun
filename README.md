@@ -73,4 +73,12 @@
 ---
 
 ### 🌀 Some Repositories :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=thiagobrun.github.io&theme=dark)](https://github.com/thiagobrun/thiagobrun.github.io)
+<div align="center">
+<a href="https://github.com/thiagobrun/thiagobrun.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=thiagobrun.github.io&theme=dark"/>
+</a>
+
+<a href="https://github.com/thiagobrun/app-ideas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobrun&repo=app-ideas&theme=dark"/>
+</a>
+</div>
