@@ -54,7 +54,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=bash,git,github,linux,postman,unity,visualstudio,vscode">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,linux,postman,godot,visualstudio,vscode">
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 ### :fire: My Stats :
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thiagobrun&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiagobrun&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobrun&show_icons=true&theme=dark&count_private=true)
 
